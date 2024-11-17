@@ -4,6 +4,8 @@ For the course Web Applications (CIS 142) at Stanford, I created a fully functio
 
 The web app supports all basic functionalities for users to log in and out, register, view their friends’ photos, like and comment on photos, and upload photos. It includes a user profile page and allows users to favorite photos with a user-specific list of favorites page. Users can also remove favorited photos from that list.
 
+**Skills** JavaScript, HTML, CSS, React, React Router, Material UI, Model View Controller, AJAX, MongoDB, Node.js, Express, Authentication
+
 ### Figure 1
 Login or register.
 
